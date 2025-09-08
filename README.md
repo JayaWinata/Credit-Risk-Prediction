@@ -1,8 +1,6 @@
-Collecting workspace informationFiltering to most relevant information# Credit Risk Prediction Project Documentation
-
 ## Overview
 
-This project is the final task of a Data Science internship program at **ID/X Partners X Rakamin Academy**. As an intern, you are tasked to collaborate with multiple departments to deliver a technology solution for a lending company. The main objective is to build a predictive model that can assess credit risk using a provided dataset containing both accepted and rejected loan applications. The solution aims to help the company automate and optimize its credit evaluation process, reduce default rates, and improve customer acquisition.
+This project is the final task of a Data Science internship program at **ID/X Partners X [Rakamin Academy](https://www.rakamin.com/academy)**. As an intern, you are tasked to collaborate with multiple departments to deliver a technology solution for a lending company. The main objective is to build a predictive model that can assess credit risk using a provided dataset containing both accepted and rejected loan applications. The solution aims to help the company automate and optimize its credit evaluation process, reduce default rates, and improve customer acquisition.
 
 ---
 
@@ -63,7 +61,3 @@ This project is the final task of a Data Science internship program at **ID/X Pa
 - **ID/X Partners** and **Rakamin Academy** for organizing and mentoring the internship program.
 - The lending company for providing the dataset and business context.
 - All collaborating departments and mentors for their guidance and support throughout the project.
-
----
-
-For further details, refer to the main notebook: credit_risk_prediction.ipynb
